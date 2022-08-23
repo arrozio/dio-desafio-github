@@ -1,0 +1,11 @@
+# SHA1 - Significa Segure Hash Algorithm (Algoritimo de Hash Seguro).
+
+# Objetos Internos do GIT:
+ - Blobs;
+ - Trees;
+ - Commits.
+
+# Comandos Git/GitHub
+ - git init -> Inicializar repositório git
+ - git add -> Mover diretórios e versionamentos
+ - git commit -> Criar commit dentro do GititHub
